@@ -6,4 +6,4 @@ This might cause a merge conflict
 ## Partner: James Gallmeister
 
 
-MERGE CONFLICT PT. 22222222igasefklio;uaegfkukalksdhfga
+MERGE CONFLICT plz
